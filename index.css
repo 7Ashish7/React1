@@ -20,11 +20,10 @@
 }
 .rescard{
     width: 200px;
-    height: 300px;
     padding: 5px;
     
     background-color: #d3afaf;
-    margin: 10px 20px;
+    margin: 20px 20px;
     border-radius: 5px;
 }
 .rescard:hover{
