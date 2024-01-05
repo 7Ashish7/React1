@@ -1169,7 +1169,7 @@ const resobj=[
     }
     ]
 const Rescard=(props)=>{
-    const resdata=props;
+    const {resdata}=props;
     props.
     return (
         <div className="rescard">
